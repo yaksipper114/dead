@@ -6,6 +6,7 @@
 //
 
 import SwiftUI
+import Foundation
 
 @main
 struct RallyUpApp: App {
@@ -14,4 +15,5 @@ struct RallyUpApp: App {
             ContentView()
         }
     }
+    
 }
